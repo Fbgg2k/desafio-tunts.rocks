@@ -69,7 +69,8 @@ Como usar
     As notas e situações atualizadas serão refletidas na planilha.
 Coomo usar:
 
-Todos os arquivos necessários estão disponíveis nesta pasta do Google Drive: [Pasta do Google Drive](https://drive.google.com/drive/folders/                      1bGkkww68Nzw__DxhtbE9c6so2kGF2FSO)
+Todos os arquivos necessários estão disponíveis nesta pasta do Google Drive: [Pasta do Google Drive](https://drive.google.com/drive/folders/1bGkkww68Nzw__DxhtbE9c6so2kGF2FSO)
+
 
 Baixe o arquivo JSON de credenciais e acesse a planilha do Google Sheets.
 Execute o script Python calcular_notas.py.
