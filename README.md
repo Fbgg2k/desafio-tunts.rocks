@@ -67,15 +67,14 @@ Como usar
     Edite as notas dos alunos na planilha do Google Sheets. As notas devem estar no formato de 0 a 10 e podem ser inseridos vírgula ou ponto.
     O script irá acessar a planilha do Google Sheets especificada e calculará as notas e a situação de cada aluno.
     As notas e situações atualizadas serão refletidas na planilha.
+Coomo usar:
 
-Como usar
+Todos os arquivos necessários estão disponíveis nesta pasta do Google Drive: [Pasta do Google Drive](https://drive.google.com/drive/folders/                      1bGkkww68Nzw__DxhtbE9c6so2kGF2FSO)
 
-    Todos os arquivos necessários estão disponíveis nesta pasta do Google Drive: [Pasta do Google Drive](https://drive.google.com/drive/folders/                      1bGkkww68Nzw__DxhtbE9c6so2kGF2FSO)
-
-    Baixe o arquivo JSON de credenciais e acesse a planilha do Google Sheets.
-    Execute o script Python calcular_notas.py.
-    Edite as notas dos alunos na planilha do Google Sheets. As notas devem estar no formato de 0 a 10 e podem ser inseridos vírgula ou ponto.
-    Edite o número de faltas dos alunos na planilha do Google Sheets. As faltas devem estar no formato de 0 a 60.
-    O script irá acessar a planilha do Google Sheets especificada e calculará as notas, faltas e a situação de cada aluno.
-    As notas, faltas e situações atualizadas serão refletidas na planilha.
+Baixe o arquivo JSON de credenciais e acesse a planilha do Google Sheets.
+Execute o script Python calcular_notas.py.
+Edite as notas dos alunos na planilha do Google Sheets. As notas devem estar no formato de 0 a 10 e podem ser inseridos vírgula ou ponto.
+Edite o número de faltas dos alunos na planilha do Google Sheets. As faltas devem estar no formato de 0 a 60.
+O script irá acessar a planilha do Google Sheets especificada e calculará as notas, faltas e a situação de cada aluno.
+As notas, faltas e situações atualizadas serão refletidas na planilha.
     
