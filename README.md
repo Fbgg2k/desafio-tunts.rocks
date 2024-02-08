@@ -70,7 +70,8 @@ Como usar
 
 Como usar
 
-    Todos os arquivos necessários estão disponíveis nesta pasta do Google Drive: Pasta do Google Drive
+    Todos os arquivos necessários estão disponíveis nesta pasta do Google Drive: [Pasta do Google Drive](https://drive.google.com/drive/folders/                      1bGkkww68Nzw__DxhtbE9c6so2kGF2FSO)
+
     Baixe o arquivo JSON de credenciais e acesse a planilha do Google Sheets.
     Execute o script Python calcular_notas.py.
     Edite as notas dos alunos na planilha do Google Sheets. As notas devem estar no formato de 0 a 10 e podem ser inseridos vírgula ou ponto.
