@@ -74,7 +74,7 @@ Como usar:
 
     
     1.Baixe o arquivo JSON de credenciais e acesse a planilha do Google Sheets.
-    2.Execute o script Python calcular_notas.py.
+    2.Execute o script Python desafio_dev.ipynb.
     3.Edite as notas dos alunos na planilha do Google Sheets. As notas devem estar no formato de 0 a 10 e podem ser inseridos vírgula ou ponto.
     4.Edite o número de faltas dos alunos na planilha do Google Sheets. As faltas devem estar no formato de 0 a 60.
     5.O script irá acessar a planilha do Google Sheets especificada e calculará as notas, faltas e a situação de cada aluno.
