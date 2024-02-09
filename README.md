@@ -53,7 +53,7 @@ Passos
         Após a execução do script, verifique a planilha para ver as situações dos alunos atualizadas.
 
 
-Tutorial: Calculadora de Médias e Notas para Aprovação
+# Tutorial: Calculadora de Médias e Notas para Aprovação
 
 Este tutorial explora um script em Python que calcula a média das notas dos alunos em uma planilha do Google Sheets e determina sua situação (aprovado, reprovado por nota, exame final) com base nas notas e no número de faltas. Além disso, o script calcula a nota necessária para aprovação final (NAF) em caso de exame final.
 Pré-requisitos
@@ -75,7 +75,7 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 
 Como usar
 
-    Execute o script Python calcular_notas.py.
+    Execute o script Python desafio-dev.ipynb.
     O script irá acessar a planilha do Google Sheets especificada e calculará as notas e a situação de cada aluno.
     As notas e situações atualizadas serão refletidas na planilha.
 
@@ -110,9 +110,6 @@ Matricula | Aluno    | Faltas | P1  | P2  | P3  | Situação           | Nota pa
 ...
 
 Se encontrar algum problema ou tiver alguma sugestão de melhoria, sinta-se à vontade para abrir uma issue ou enviar um pull request!
-# Tutorial
-Como usar
-
     Execute o script Python calcular_notas.py.
     Edite as notas dos alunos na planilha do Google Sheets. As notas devem estar no formato de 0 a 10 e podem ser inseridos vírgula ou ponto.
     O script irá acessar a planilha do Google Sheets especificada e calculará as notas e a situação de cada aluno.
