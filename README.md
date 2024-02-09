@@ -88,27 +88,6 @@ O script consiste em várias partes:
     Cálculo das Médias e Situações: Calcula a média das notas e determina a situação de cada aluno com base nas notas e no número de faltas.
     Atualização da Planilha: Atualiza a planilha do Google Sheets com as novas notas e situações calculadas.
 
-Exemplos
-
-Veja abaixo um exemplo de entrada e saída:
-Exemplo de Entrada
-
-python
-
-Matricula | Aluno    | Faltas | P1  | P2  | P3  | Situação | Nota para aprovação
-1         | Eduardo  | 8      | 3.5 | 6.3 | 6.1 |          | 0
-2         | Murilo   | 8      | 6.4 | 9.7 | 3.6 |          | 0
-...
-
-Exemplo de Saída
-
-python
-
-Matricula | Aluno    | Faltas | P1  | P2  | P3  | Situação           | Nota para aprovação
-1         | Eduardo  | 8      | 3.5 | 6.3 | 6.1 | Reprovado por Falta | 0
-2         | Murilo   | 8      | 6.4 | 9.7 | 3.6 | Reprovado por Falta | 0
-...
-
 Se encontrar algum problema ou tiver alguma sugestão de melhoria, sinta-se à vontade para abrir uma issue ou enviar um pull request!
     Execute o script Python calcular_notas.py.
     Edite as notas dos alunos na planilha do Google Sheets. As notas devem estar no formato de 0 a 10 e podem ser inseridos vírgula ou ponto.
