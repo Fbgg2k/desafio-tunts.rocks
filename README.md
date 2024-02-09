@@ -6,7 +6,7 @@ desafio de usando linguagens de programação
 Como usar:
 
     
-    1.Baixe o arquivo JSON de credenciais e acesse a planilha do Google Sheets.
+    1.Baixe o arquivo .ipynb e JSON de credenciais e acesse a planilha do Google Sheets.
     2.Execute o script Python desafio_dev.ipynb.
     3.Edite as notas dos alunos na planilha do Google Sheets. As notas devem estar no formato de 0 a 10 e podem ser inseridos vírgula ou ponto.
     4.Edite o número de faltas dos alunos na planilha do Google Sheets. As faltas devem estar no formato de 0 a 60.
@@ -32,7 +32,7 @@ Passos
         Abra o Google Colab em seu navegador.
 
     3.Fazer Upload do Arquivo JSON
-        No Google Colab, clique no ícone "Upload" no canto superior direito.
+        No Google Colab, clique no ícone "Upload" e carregue o arquivo .ipynb no canto superior direito .
         Selecione o arquivo JSON de credenciais que você baixou anteriormente.
 
     4.Copiar e Colar o Código
