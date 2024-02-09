@@ -63,19 +63,6 @@ Antes de começar, certifique-se de ter as seguintes dependências instaladas:
     Python 3.x
     Bibliotecas gspread e google-auth: pip install gspread google-auth
 
-Configuração
-
-    Clone este repositório:
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-
-Faça o upload do arquivo JSON de credenciais fornecido pelo Google API Console para autorizar o acesso à planilha do Google Sheets.
-
-Como usar
-
-    Execute o script Python desafio-dev.ipynb.
-    O script irá acessar a planilha do Google Sheets especificada e calculará as notas e a situação de cada aluno.
-    As notas e situações atualizadas serão refletidas na planilha.
-
 Estrutura do código
 
 O script consiste em várias partes:
@@ -86,6 +73,7 @@ O script consiste em várias partes:
     Atualização da Planilha: Atualiza a planilha do Google Sheets com as novas notas e situações calculadas.
 
 Se encontrar algum problema ou tiver alguma sugestão de melhoria, sinta-se à vontade para abrir uma issue ou enviar um pull request!
+    
     Execute o script Python desafio_dev.ipynb.
     Edite as notas dos alunos na planilha do Google Sheets. As notas devem estar no formato de 0 a 10 e podem ser inseridos vírgula ou ponto.
     O script irá acessar a planilha do Google Sheets especificada e calculará as notas e a situação de cada aluno.
