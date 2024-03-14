@@ -1,5 +1,5 @@
 # desafio-tunts.rocks
-desafio de usando linguagens de programação
+desafio usando linguagens de programação
 
 # Todos os arquivos necessários estão disponíveis nesta pasta do [Google Drive](https://drive.google.com/drive/folders/1bGkkww68Nzw__DxhtbE9c6so2kGF2FSO)
 
